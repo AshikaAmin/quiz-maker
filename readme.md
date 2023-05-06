@@ -9,13 +9,13 @@
 1. Clone the repository
 
 ```bash
-https://github.com/SabbirHosen/Web-quiz.git
+https://github.com/AshikaAmin/quiz-maker
 ```
 
 2. Change the working directory
 
 ```bash
-cd Web-quiz
+cd quiz-maker
 ```
 
 3. Install virtual environment (command prompt)
